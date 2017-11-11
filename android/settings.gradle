@@ -1,0 +1,3 @@
+rootProject.name = 'PlusMinCalculator'
+
+include ':app'
